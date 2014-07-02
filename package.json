@@ -1,6 +1,6 @@
 {
   "name": "xxheloname",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "hello your name",
   "bin": {
 	"xxheloname" : "main.js"
