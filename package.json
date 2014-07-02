@@ -1,0 +1,16 @@
+{
+  "name": "xxheloname",
+  "version": "0.0.3",
+  "description": "hello your name",
+  "bin": {
+	"xxheloname" : "main.js"
+  },
+  "files" : [
+   "main.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
