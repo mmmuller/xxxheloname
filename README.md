@@ -4,8 +4,6 @@ xxxheloname
 Sample of nodejs program which can run in console
 
 
----------------------------------------------------
-
 In order to use it you have to use our npm repository.
 
 #### npm configuration ####
